@@ -1,0 +1,12 @@
+.barResults{
+    display: flex;
+    /* flex-direction: column; */
+    /* align-items: center; */
+    font-family: var(--font2);
+    margin: auto;
+    margin-top: 10%;
+}
+.resultsCol{
+    background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+
+}
